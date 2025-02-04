@@ -1,3 +1,5 @@
+![alt text](https://github.com/adnanfariss/Smoke-Detector/blob/main/assets/project-2.1.jpg?raw=true)
+
 **Kata Pengantar**
 
 Tempat umum adalah ruang yang seharusnya aman dan nyaman bagi semua orang. Namun, seringkali kita menemui masalah yang mengganggu ketertiban dan kesehatan, seperti kebiasaan merokok di area yang seharusnya bebas rokok. Sekolah, sebagai salah satu tempat umum yang seharusnya menjadi zona aman bagi siswa, justru sering menjadi tempat pelanggaran aturan ini. Meskipun sudah ada peraturan Kawasan Tanpa Rokok (KTR), masih banyak siswa, guru, bahkan petugas sekolah yang merokok di area tersembunyi seperti toilet.
