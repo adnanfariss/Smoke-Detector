@@ -55,6 +55,7 @@ Modul step-down digunakan untuk menurunkan tegangan dari 12V (dari catu daya eks
 **Prosedur Pengembangan Alat**
 
 **Desain Sistem**
+![alt text](https://github.com/adnanfariss/Smoke-Detector/blob/main/assets/rakitanPNG.PNG?raw=true)
 Kami menggunakan aplikasi **Fritzing** untuk merancang sistem secara visual. Rangkaian ini terdiri dari ESP32 sebagai pusat kendali, sensor MQ2 untuk mendeteksi asap, relay untuk mengontrol kunci solenoid, dan modul step-down untuk menstabilkan tegangan.
 
 **Bahan yang Digunakan**
